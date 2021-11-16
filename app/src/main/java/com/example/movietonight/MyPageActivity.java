@@ -40,10 +40,10 @@ public class MyPageActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent SavedActivity = new Intent(getApplicationContext(), SavedActivity.class); }
         });
-                profile.setOnClickListener(new OnClickListener() {
-                    @Override
-                    public void onClick(View view) {
-                        Intent ProfileActivity = new Intent(getApplicationContext(), ProfileActivity.class);
+        profile.setOnClickListener(new OnClickListener() {
+          @Override
+          public void onClick(View view) {
+                Intent ProfileActivity = new Intent(getApplicationContext(), ProfileActivity.class);
                         startActivity(ProfileActivity);
                     }
                 });

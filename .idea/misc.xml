@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_post.xml" value="0.2390625" />
         <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_ranking.xml" value="0.264" />
+        <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_review.xml" value="0.25364583333333335" />
         <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_signup.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activity_start.xml" value="0.25364583333333335" />
         <entry key="..\:/Android/MovieTonight_20211116/MovieTonight/app/src/main/res/layout/activty_mypage.xml" value="0.264" />
       </map>
     </option>

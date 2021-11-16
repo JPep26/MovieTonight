@@ -9,7 +9,7 @@
     <ImageView
         android:id="@id/img_backmove"
         android:layout_width="35dp"
-        android:layout_height="35dp"
+        android:layout_height="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.042"
@@ -21,12 +21,12 @@
     <TextView
         android:id="@+id/text_ranking"
         android:layout_width="200dp"
-        android:layout_height="24dp"
+        android:layout_height="50dp"
         android:text="나의 장르 랭킹"
         app:layout_constraintLeft_toRightOf="@id/img_backmove"
         app:layout_constraintBottom_toBottomOf="@id/img_backmove"
-        android:layout_marginLeft="100dp"
-        android:textSize="20sp"/>
+        android:layout_marginLeft="60dp"
+        android:textSize="30sp"/>
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
@@ -46,14 +46,14 @@
     <LinearLayout
 
     android:orientation="vertical"
-        android:layout_height="700dp"
+        android:layout_height="450dp"
         android:layout_width="400dp">
 
         <org.eazegraph.lib.charts.PieChart
             android:id="@+id/tab1_chart_1"
             android:layout_width="300dp"
-            android:layout_height="500dp"
-            android:layout_marginLeft="40dp"
+            android:layout_height="300dp"
+            android:layout_marginLeft="50dp"
             android:layout_marginTop="160dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="20dp"
